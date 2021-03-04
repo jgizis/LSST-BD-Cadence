@@ -1,6 +1,8 @@
 # LSST-BD-Cadence
 notebooks for brown dwarf related calculations for Vera C. Rubin Observatory LSST. Aimed at developing a Cadence Note to the SCOC.  
 
+Numbers_for_Note notebook has the actual Figure of Metric (observable volume of L7 dwarfs) divided by the baseline. Meant to give numbers for the document. 
+
 Brown_Dwarf_LF_LSST has information on the absolute magnitudes and space densities of L,T dwarfs as a function of spectral type.
 [Y dwarfs are faint anyway so not considered]
 
