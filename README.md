@@ -1,13 +1,11 @@
 # LSST-BD-Cadence
 notebooks for brown dwarf related calculations for Vera C. Rubin Observatory LSST. Aimed at developing a Cadence Note to the SCOC.  
 
-Numbers_for_Note notebook has the actual Figure of Metric (observable volume of L7 dwarfs) divided by the baseline. Meant to give numbers for the document. 
+Numbers_for_Note notebook has the actual Figure of Metric (observable volume of L7 dwarfs divided by the corresponding baseline). Meant to give numbers for the document. 
 
-Brown_Dwarf_LF_LSST has information on the absolute magnitudes and space densities of L,T dwarfs as a function of spectral type.
-[Y dwarfs are faint anyway so not considered]
+Brown_Dwarf_LF_LSST has information on the absolute magnitudes and space densities of L,T dwarfs as a function of spectral type. Y dwarfs are too faint to worry about. This notebook doesn't do anything original.  
 
-The remaining notebooks are designed to work on NOIRLab DataLab notebooks.  You have to use the LSST MAF kernel. See the Jones cadence report (PSTN-051) 
-and community.lsst.org for descriptions of the simulation families and their purpose.
+The remaining notebooks are designed to work on NOIRLab DataLab notebooks.  You have to use the LSST MAF kernel. See the Jones cadence report (PSTN-051) and community.lsst.org for descriptions of the simulation families and their purpose.
 
 bd_dist_metric runs through the baseline 1.7 cadence simulation for a variety of spectral types.  
 
