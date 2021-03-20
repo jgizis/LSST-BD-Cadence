@@ -96,6 +96,15 @@ L7 {'VolumeSum': 212840.27030771854}
 /sims_maf/fbs_1.6/rolling_fpo/rolling_fpo_6nslice0.9_v1.6_10yrs.db {'VolumeSum': 220625.97161642933}
 /sims_maf/fbs_1.6/rolling_fpo/rolling_fpo_6nslice1.0_v1.6_10yrs.db {'VolumeSum': 220852.8220029645}
 
+/sims_maf/fbs_1.5/rolling/rolling_mod2_sdf_0.10_v1.5_10yrs.db {'VolumeSum': 221182.69073755172}
+/sims_maf/fbs_1.5/rolling/rolling_mod2_sdf_0.20_v1.5_10yrs.db {'VolumeSum': 220055.96212538052}
+/sims_maf/fbs_1.5/rolling/rolling_mod3_sdf_0.10_v1.5_10yrs.db {'VolumeSum': 217593.32750957095}
+/sims_maf/fbs_1.5/rolling/rolling_mod3_sdf_0.20_v1.5_10yrs.db {'VolumeSum': 217897.66636201527}
+/sims_maf/fbs_1.5/rolling/rolling_mod6_sdf_0.10_v1.5_10yrs.db {'VolumeSum': 214426.07962163328}
+/sims_maf/fbs_1.5/rolling/rolling_mod6_sdf_0.20_v1.5_10yrs.db {'VolumeSum': 215402.96812019375}
+
+
+
 /sims_maf/fbs_1.7/baseline/baseline_nexp1_v1.7_10yrs.db {'VolumeSum': 221280.607090192}
 /sims_maf/fbs_1.7/baseline/baseline_nexp2_v1.7_10yrs.db {'VolumeSum': 212840.27030771854}
 
