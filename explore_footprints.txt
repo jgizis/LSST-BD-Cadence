@@ -138,6 +138,21 @@ L7 {'VolumeSum': 212840.27030771854}
 /sims_maf/fbs_1.7/rolling/rolling_scale1.0_nslice3_v1.7_10yrs.db {'VolumeSum': 214177.27262421374}
 
 
+/sims_maf/fbs_1.5/twilight_neo/twilight_neo_mod1_v1.5_10yrs.db {'VolumeSum': 228488.487703459}
+/sims_maf/fbs_1.5/twilight_neo/twilight_neo_mod2_v1.5_10yrs.db {'VolumeSum': 228900.87913262716}
+/sims_maf/fbs_1.5/twilight_neo/twilight_neo_mod3_v1.5_10yrs.db {'VolumeSum': 227449.90048516323}
+/sims_maf/fbs_1.5/twilight_neo/twilight_neo_mod4_v1.5_10yrs.db {'VolumeSum': 226534.47883783752}
+
+
+/sims_maf/fbs_1.7/twi_neo/twi_neo_pattern1_v1.7_10yrs.db {'VolumeSum': 200250.40242524727}
+/sims_maf/fbs_1.7/twi_neo/twi_neo_pattern2_v1.7_10yrs.db {'VolumeSum': 206944.97608135242}
+/sims_maf/fbs_1.7/twi_neo/twi_neo_pattern3_v1.7_10yrs.db {'VolumeSum': 209361.30850070654}
+/sims_maf/fbs_1.7/twi_neo/twi_neo_pattern4_v1.7_10yrs.db {'VolumeSum': 210177.3621366513}
+/sims_maf/fbs_1.7/twi_neo/twi_neo_pattern5_v1.7_10yrs.db {'VolumeSum': 207388.12391301876}
+/sims_maf/fbs_1.7/twi_neo/twi_neo_pattern6_v1.7_10yrs.db {'VolumeSum': 207704.73928053142}
+/sims_maf/fbs_1.7/twi_neo/twi_neo_pattern7_v1.7_10yrs.db {'VolumeSum': 208885.1746627709}
+
+
 ** CHANGE ATM_ERR to 0.005 arcsec **
 /sims_maf/fbs_1.7/baseline/baseline_nexp1_v1.7_10yrs.db {'VolumeSum': 235660.92217125942}
 /sims_maf/fbs_1.7/baseline/baseline_nexp2_v1.7_10yrs.db {'VolumeSum': 227516.85093965093}
