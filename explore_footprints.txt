@@ -152,6 +152,18 @@ L7 {'VolumeSum': 212840.27030771854}
 /sims_maf/fbs_1.7/twi_neo/twi_neo_pattern6_v1.7_10yrs.db {'VolumeSum': 207704.73928053142}
 /sims_maf/fbs_1.7/twi_neo/twi_neo_pattern7_v1.7_10yrs.db {'VolumeSum': 208885.1746627709}
 
+/sims_maf/fbs_1.7.1/new_rolling/baseline_nexp2_v1.7.1_10yrs.db {'VolumeSum': 215030.0914341582}
+/sims_maf/fbs_1.7.1/new_rolling/bulge_roll_scale0.90_nslice2_fpw0.9_nrw1.0v1.7_10yrs.db {'VolumeSum': 214666.22908174188}
+/sims_maf/fbs_1.7.1/new_rolling/bulge_roll_scale0.90_nslice3_fpw0.9_nrw1.0v1.7_10yrs.db {'VolumeSum': 213333.35426955868}
+/sims_maf/fbs_1.7.1/new_rolling/footprint_6_v1.7.1_10yrs.db {'VolumeSum': 217860.29062629884}
+/sims_maf/fbs_1.7.1/new_rolling/full_disk_scale0.90_nslice2_fpw0.9_nrw1.0v1.7_10yrs.db {'VolumeSum': 218400.49511754274}
+/sims_maf/fbs_1.7.1/new_rolling/full_disk_scale0.90_nslice3_fpw0.9_nrw1.0v1.7_10yrs.db {'VolumeSum': 217040.63634401702}
+/sims_maf/fbs_1.7.1/new_rolling/full_disk_v1.7_10yrs.db {'VolumeSum': 221271.99680747621}
+/sims_maf/fbs_1.7.1/new_rolling/rolling_nm_scale0.90_nslice2_fpw0.9_nrw1.0v1.7_10yrs.db {'VolumeSum': 209269.40703522819}
+/sims_maf/fbs_1.7.1/new_rolling/rolling_nm_scale0.90_nslice3_fpw0.9_nrw1.0v1.7_10yrs.db {'VolumeSum': 207600.9026142373}
+/sims_maf/fbs_1.7.1/new_rolling/six_stripe_scale0.90_nslice6_fpw0.9_nrw0.0v1.7_10yrs.db {'VolumeSum': 212603.56971683772}
+
+
 
 ** CHANGE ATM_ERR to 0.005 arcsec **
 /sims_maf/fbs_1.7/baseline/baseline_nexp1_v1.7_10yrs.db {'VolumeSum': 235660.92217125942}
