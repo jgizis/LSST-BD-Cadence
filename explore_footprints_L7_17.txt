@@ -22,6 +22,11 @@
 /sims_maf/fbs_1.7/footprint_tune/footprint_6_v1.710yrs.db {'VolumeSum': 215068.4558427714}
 /sims_maf/fbs_1.7/footprint_tune/footprint_7_v1.710yrs.db {'VolumeSum': 214465.550576824}
 /sims_maf/fbs_1.7/footprint_tune/footprint_8_v1.710yrs.db {'VolumeSum': 213527.59861354897}
+/sims_maf/fbs_1.7/pair_times/pair_times_11_v1.7_10yrs.db {'VolumeSum': 214020.73837702454}
+/sims_maf/fbs_1.7/pair_times/pair_times_22_v1.7_10yrs.db {'VolumeSum': 212840.27030771854}
+/sims_maf/fbs_1.7/pair_times/pair_times_33_v1.7_10yrs.db {'VolumeSum': 211570.44774185104}
+/sims_maf/fbs_1.7/pair_times/pair_times_44_v1.7_10yrs.db {'VolumeSum': 210465.01234912034}
+/sims_maf/fbs_1.7/pair_times/pair_times_55_v1.7_10yrs.db {'VolumeSum': 208156.47962380215}
 /sims_maf/fbs_1.7/rolling/rolling_scale0.2_nslice2_v1.7_10yrs.db {'VolumeSum': 213073.53503574352}
 /sims_maf/fbs_1.7/rolling/rolling_scale0.2_nslice3_v1.7_10yrs.db {'VolumeSum': 213027.08831203694}
 /sims_maf/fbs_1.7/rolling/rolling_scale0.4_nslice2_v1.7_10yrs.db {'VolumeSum': 212939.20504086604}
@@ -34,6 +39,10 @@
 /sims_maf/fbs_1.7/rolling/rolling_scale0.9_nslice3_v1.7_10yrs.db {'VolumeSum': 214210.82886525206}
 /sims_maf/fbs_1.7/rolling/rolling_scale1.0_nslice2_v1.7_10yrs.db {'VolumeSum': 213113.56202742466}
 /sims_maf/fbs_1.7/rolling/rolling_scale1.0_nslice3_v1.7_10yrs.db {'VolumeSum': 214177.27262421374}
+/sims_maf/fbs_1.7/twi_pairs/twi_pairs_mixed_repeat_v1.7_10yrs.db {'VolumeSum': 213162.1799538501}
+/sims_maf/fbs_1.7/twi_pairs/twi_pairs_mixed_v1.7_10yrs.db {'VolumeSum': 212890.55164316617}
+/sims_maf/fbs_1.7/twi_pairs/twi_pairs_repeat_v1.7_10yrs.db {'VolumeSum': 212564.96769073105}
+/sims_maf/fbs_1.7/twi_pairs/twi_pairs_v1.7_10yrs.db {'VolumeSum': 212867.99787970065}
 /sims_maf/fbs_1.7/twi_neo/twi_neo_pattern1_v1.7_10yrs.db {'VolumeSum': 200250.40242524727}
 /sims_maf/fbs_1.7/twi_neo/twi_neo_pattern2_v1.7_10yrs.db {'VolumeSum': 206944.97608135242}
 /sims_maf/fbs_1.7/twi_neo/twi_neo_pattern3_v1.7_10yrs.db {'VolumeSum': 209361.30850070654}
