@@ -1,0 +1,4 @@
+/sims_maf/fbs_2.0/baseline/baseline_v2.0_10yrs.db {'VolumeSum': 204797.0416578286}
+/sims_maf/fbs_2.0/baseline_nexp2_v1.7.1_10yrs/baseline_nexp2_v1.7.1_10yrs.db {'VolumeSum': 211088.83757462178}
+
+​
