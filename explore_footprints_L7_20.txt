@@ -1,4 +1,28 @@
 /sims_maf/fbs_2.0/baseline/baseline_v2.0_10yrs.db {'VolumeSum': 204797.0416578286}
 /sims_maf/fbs_2.0/baseline_nexp2_v1.7.1_10yrs/baseline_nexp2_v1.7.1_10yrs.db {'VolumeSum': 211088.83757462178}
 
+/sims_maf/fbs_2.0/presto/presto_gap1.5_mix_v2.0_10yrs.db {'VolumeSum': 196297.0266904344}
+/sims_maf/fbs_2.0/presto/presto_gap1.5_v2.0_10yrs.db {'VolumeSum': 198227.83152009695}
+/sims_maf/fbs_2.0/presto/presto_gap2.0_mix_v2.0_10yrs.db {'VolumeSum': 190207.96591113153}
+/sims_maf/fbs_2.0/presto/presto_gap2.0_v2.0_10yrs.db {'VolumeSum': 195968.80217175535}
+/sims_maf/fbs_2.0/presto/presto_gap2.5_mix_v2.0_10yrs.db {'VolumeSum': 188151.86819177808}
+/sims_maf/fbs_2.0/presto/presto_gap2.5_v2.0_10yrs.db {'VolumeSum': 193943.13941960133}
+/sims_maf/fbs_2.0/presto/presto_gap3.0_mix_v2.0_10yrs.db {'VolumeSum': 185639.1293520676}
+/sims_maf/fbs_2.0/presto/presto_gap3.0_v2.0_10yrs.db {'VolumeSum': 191570.4786980784}
+/sims_maf/fbs_2.0/presto/presto_gap3.5_mix_v2.0_10yrs.db {'VolumeSum': 183051.01861391493}
+/sims_maf/fbs_2.0/presto/presto_gap3.5_v2.0_10yrs.db {'VolumeSum': 189643.00503436977}
+/sims_maf/fbs_2.0/presto/presto_gap4.0_mix_v2.0_10yrs.db {'VolumeSum': 182081.8181620624}
+/sims_maf/fbs_2.0/presto/presto_gap4.0_v2.0_10yrs.db {'VolumeSum': 187744.6523979452}
 ​
+/sims_maf/fbs_2.0/presto_half/presto_half_gap1.5_mix_v2.0_10yrs.db {'VolumeSum': 202182.3966331073}
+/sims_maf/fbs_2.0/presto_half/presto_half_gap1.5_v2.0_10yrs.db {'VolumeSum': 200942.25730559137}
+/sims_maf/fbs_2.0/presto_half/presto_half_gap2.0_mix_v2.0_10yrs.db {'VolumeSum': 200374.3363499316}
+/sims_maf/fbs_2.0/presto_half/presto_half_gap2.0_v2.0_10yrs.db {'VolumeSum': 200607.91335371917}
+/sims_maf/fbs_2.0/presto_half/presto_half_gap2.5_mix_v2.0_10yrs.db {'VolumeSum': 199054.24093360137}
+/sims_maf/fbs_2.0/presto_half/presto_half_gap2.5_v2.0_10yrs.db {'VolumeSum': 201055.9489114653}
+/sims_maf/fbs_2.0/presto_half/presto_half_gap3.0_mix_v2.0_10yrs.db {'VolumeSum': 199354.12787380285}
+/sims_maf/fbs_2.0/presto_half/presto_half_gap3.0_v2.0_10yrs.db {'VolumeSum': 200190.04567960775}
+/sims_maf/fbs_2.0/presto_half/presto_half_gap3.5_mix_v2.0_10yrs.db {'VolumeSum': 198704.14071921934}
+/sims_maf/fbs_2.0/presto_half/presto_half_gap3.5_v2.0_10yrs.db {'VolumeSum': 199400.8104322407}
+/sims_maf/fbs_2.0/presto_half/presto_half_gap4.0_mix_v2.0_10yrs.db {'VolumeSum': 198471.3778465244}
+/sims_maf/fbs_2.0/presto_half/presto_half_gap4.0_v2.0_10yrs.db {'VolumeSum': 199659.6524044705}
