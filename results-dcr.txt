@@ -1,0 +1,5 @@
+L7_D8 {'VolumeSum': 200728.96148607865}
+L7_D5 {'VolumeSum': 117399.75662788302}
+L7_D10 {'VolumeSum': 204463.0622254103}
+ParallaxDcrDegenMetric {}
+ParallaxDcrDegenMetric {}
