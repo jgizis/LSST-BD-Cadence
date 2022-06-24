@@ -3,3 +3,25 @@ L7_D5 {'VolumeSum': 117399.75662788302}
 L7_D10 {'VolumeSum': 204463.0622254103}
 ParallaxDcrDegenMetric {}
 ParallaxDcrDegenMetric {}
+
+
+1.0 vs 0.8    0.982
+1.0 vs 0.5    0.574
+
+
+V2.0
+
+L7_D8 {'VolumeSum': 198610.50641116174}
+L7_D10 {'VolumeSum': 199046.5454200916}
+ParallaxDcrDegenMetric {}
+ParallaxDcrDegenMetric {}
+
+
+V2.1
+
+L7_D8 {'VolumeSum': 193911.0373208065}
+L7_D10 {'VolumeSum': 194568.4620923377}
+ParallaxDcrDegenMetric {}
+ParallaxDcrDegenMetric {}
+
+
