@@ -1,0 +1,17 @@
+/sims_maf/fbs_1.7/twi_neo/twi_neo_pattern1_v1.7_10yrs.db {'VolumeSum': 131072.00719401537}
+
+/sims_maf/fbs_1.6/potential_schedulers/ddf_heavy_nexp2_v1.6_10yrs.db {'VolumeSum': 137831.06419110578}
+
+/sims_maf/fbs_1.5/footprints/footprint_stuck_rollingv1.5_10yrs.db {'VolumeSum': 132669.1961401792}
+
+
+/sims_maf/fbs_1.5/filter_dist/filterdist_indx3_v1.5_10yrs.db {'VolumeSum': 149970.5365826224}
+/sims_maf/fbs_1.5/filter_dist/filterdist_indx5_v1.5_10yrs.db {'VolumeSum': 184712.9451777251}
+/sims_maf/fbs_1.5/filter_dist/filterdist_indx8_v1.5_10yrs.db {'VolumeSum': 170546.96333695194}
+
+
+/sims_maf/fbs_1.5/baseline/baseline_2snaps_v1.5_10yrs.db {'VolumeSum': 152366.2392725056}
+/sims_maf/fbs_1.5/baseline/baseline_v1.5_10yrs.db {'VolumeSum': 160224.68623593985}
+
+/sims_maf/fbs_1.6/potential_schedulers/baseline_nexp2_v1.6_10yrs.db {'VolumeSum': 147791.82638776192}
+
