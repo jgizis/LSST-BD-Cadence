@@ -1,0 +1,14 @@
+L7 V1.7 baseline:
+
+/sims_maf/fbs_1.7/baseline/baseline_nexp1_v1.7_10yrs.db {'VolumeSum': 221280.607090192}
+/sims_maf/fbs_1.7/baseline/baseline_nexp2_v1.7_10yrs.db {'VolumeSum': 212840.27030771854}
+
+/sims_maf/fbs_1.7/baseline/baseline_nexp1_v1.7_10yrs.db {'VolumeSum': 388876.78034520237}
+/sims_maf/fbs_1.7/baseline/baseline_nexp2_v1.7_10yrs.db {'VolumeSum': 364502.1517452778}
+
+volume ratio (1 snap) 1.76
+
+volume ratio (2 snaps )  1.71
+
+2^1.5 = 2.82
+
