@@ -1,0 +1,26 @@
+
+L4
+
+_sims_maf_fbs_1_7_baseline_baseline_nexp1_v1_7_10yrs_L4_HEAL {'VolumeSum': 667493.2749123618}
+
+_sims_maf_fbs_1_7_baseline_baseline_nexp2_v1_7_10yrs_L4_HEAL {'VolumeSum': 627190.8521180811}
+
+
+L4 double:
+
+/sims_maf/fbs_1.7/baseline/baseline_nexp1_v1.7_10yrs.db {'VolumeSum': 1246324.7092029473}
+/sims_maf/fbs_1.7/baseline/baseline_nexp2_v1.7_10yrs.db {'VolumeSum': 1168127.3795350057}
+
+
+
+Nexp2:
+1168127.3795350057/627190.852118081
+1.86
+
+Nexp1:
+1246324.7092029473/667493.2749123618
+1.87
+
+2^1.5 = 2.82
+
+
